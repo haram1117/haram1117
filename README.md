@@ -4,7 +4,10 @@
 [![Blog Badge](http://img.shields.io/badge/-Blog-brightgreen?style=flat-square&logo=FF5722&link=https://blog.naver.com/chajuhui123)](https://blog.naver.com/qkrgkfka_17)
 
 ## Tech Stack
+#### Techs that I've used at least once
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/C#-239120?style=flat-square&logo=Csharp&logoColor=white"/></a>
 
 ## Experience✨
 - (2019 ~) 경희대학교 컴퓨터공학과 
