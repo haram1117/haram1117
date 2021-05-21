@@ -1,10 +1,11 @@
+<center>
 ## Haram Park (2000.11.17) 👋
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jjuhee0913@gmail.com)](mailto:haram1117@khu.ac.kr)
 [![Blog Badge](http://img.shields.io/badge/-Blog-brightgreen?style=flat-square&logo=FF5722&link=https://blog.naver.com/chajuhui123)](https://blog.naver.com/qkrgkfka_17)
 
 ## Tech Stack
-#### Techs that I've used at least once
+### Techs that I've used at least once
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
@@ -22,7 +23,7 @@
 - (2021.01 ~ 2021.03) 바운스볼 카피게임 개발
 - (2021.02 ~ 2021.03) OpenEarth 창작게임 개발
 - (2021.03 ~ ) 창작 게임 개발 중 .. 🎈🐣
-
+</center>
 
 <!--
 **haram1117/haram1117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
