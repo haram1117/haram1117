@@ -11,7 +11,7 @@
 
 
 <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/UnrealEngine-313131?style=flat-square&logo=Unreal Engine&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/UnrealEngine-313131?style=flat-square&logo=Unrealngine&logoColor=white"/></a>
 
 ## Experience✨
 - (2019 ~) 경희대학교 컴퓨터공학과 
