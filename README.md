@@ -7,13 +7,14 @@
 #### Techs that I've used at least once
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/C#-239120?style=flat-square&logo=C_Sharp&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/></a>
 
 ## Experience✨
 - (2019 ~) 경희대학교 컴퓨터공학과 
 - (2019.11) 경희대학교 해커톤 KHUTON 우수상 수상
 - (2019 ~ ) 경희대학교 중앙밴드동아리 TALMOOD 39기 Keyboard
-- (2019 ~ ) 경희대학교 중앙밴드동아리 TALMOOD 39기 서기, 음향엔지니어
+- (2019 ~ ) 경희대학교 중앙밴드동아리 TALMOOD 39기 서기, Sound Engineer
 - (2020.03 ~ 2020.06) 헌혈 요청 웹 개발 
 - (2021.01 ~ 2021.03) 바운스볼 카피게임 개발
 - (2021.02 ~ 2021.03) OpenEarth 창작게임 개발
