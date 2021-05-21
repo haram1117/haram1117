@@ -1,4 +1,3 @@
-<center>
 ## Haram Park (2000.11.17) 👋
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jjuhee0913@gmail.com)](mailto:haram1117@khu.ac.kr)
@@ -23,7 +22,7 @@
 - (2021.01 ~ 2021.03) 바운스볼 카피게임 개발
 - (2021.02 ~ 2021.03) OpenEarth 창작게임 개발
 - (2021.03 ~ ) 창작 게임 개발 중 .. 🎈🐣
-</center>
+
 
 <!--
 **haram1117/haram1117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
