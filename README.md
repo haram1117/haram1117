@@ -5,6 +5,4 @@
 ![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120.svg?&style=for-the-badge&logo=csharp&logoColor=white)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haram1117&theme=onedark&show_icons=true)
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=haram518303)](https://solved.ac/haram518303/)
